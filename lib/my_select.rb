@@ -9,5 +9,5 @@ def my_select(collection)
  end
  
  end
- result 
+ return result 
 end
