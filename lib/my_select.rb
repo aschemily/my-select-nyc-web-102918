@@ -15,6 +15,6 @@ def my_select(collection)
      counter += 1 
    end
  end
- return arr
+ return array
 end
 end
